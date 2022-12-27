@@ -1,6 +1,6 @@
 ### ╰⊱⭐⊱╮꧁ Lucie Guinebert ꧂╭⊱⭐≺
 
-Je suis Lucie, vivant en Seine et Marne, en reconvertion professionel, je suis actuellement en formation Développement Web ! 😁
+Je suis Lucie, vivant en Seine et Marne, en reconvertion professionel, je suis actuellement en formation Développement Web et Web mobile ! 😁
 
 Réellement:
 
