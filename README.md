@@ -36,9 +36,11 @@ Réellement :
       Code-->Eat;
       Eat-->Sleep;
       Sleep-->Code;
+```
 
+### ⭐Statistiques GitHub
 
-          
+![Lucie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucie7798&theme=algolia&show_icons=true&count_private=true)
           
           
           
