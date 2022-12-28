@@ -13,7 +13,8 @@ Réellement :
 
 ### Contactez-moi :
 
-[![image](https://user-images.githubusercontent.com/113423783/209716875-ccc2e903-3732-40f7-be2f-5663c295d6fc.png)](https://www.instagram.com/lucie.guinebert/)
+[<img align="left" alt="AMS" width="25px" src="https://user-images.githubusercontent.com/113423783/209818616-d3824d4b-f169-48fd-ada3-2266bc337c9b.png" />](https://www.facebook.com/lucie.gnbt/)
+[<img align="left" alt="AMS" width="25px" src="https://user-images.githubusercontent.com/113423783/209716875-ccc2e903-3732-40f7-be2f-5663c295d6fc.png" />](https://www.instagram.com/lucie.guinebert/)
 [![image](https://user-images.githubusercontent.com/113423783/209716964-b7d6f7c2-2e82-4b07-ba61-ceddbe8760a3.png)](https://www.linkedin.com/in/lucie-guinebert/)
 
 ### Languages et outils : 
