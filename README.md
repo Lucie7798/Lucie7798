@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌐 Socials :</p>
+<h3 align="left">🌐 Socials :</h3>
 
 ###
 
