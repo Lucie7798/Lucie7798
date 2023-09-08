@@ -1,46 +1,72 @@
-### ╰⊱⭐⊱╮꧁ Lucie Guinebert ꧂╭⊱⭐≺
+<h1 align="left">╰⊱⭐⊱╮꧁ Hello 👋꧂╭⊱⭐≺</h1>
 
+###
 
-Je suis Lucie, vivant en Seine et Marne, en reconvertion professionel en Développement Web et Web mobile ! 😁
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-- 🔭Je recherche un stage de 3 à 6 mois à partir de début avril 2023, qui peu éventuellement commencer plus tard ^^
-- ⚡Fun fact : Passionée de mangas, j'adore les chats ₍^ >ヮ<^₎
-- 📫Comment me joindre : Linkedin, Facebook
+<p align="left">Je viens de Seine-et-Marne<br><br>- 🔭 Je travail actuellement sur un site e-commerce<br>- ⚡ Passionnée de mangas, j'adore les chats ₍^ >ヮ<^₎</p>
 
-➳༻❀ ☕ ❀༺➳
+###
 
-### Contactez-moi :
+<p align="left">🌐 Socials :</p>
 
-[<img align="left" alt="AMS" width="25px" src="https://user-images.githubusercontent.com/113423783/209818616-d3824d4b-f169-48fd-ada3-2266bc337c9b.png" />](https://www.facebook.com/lucie.gnbt/)
-[<img align="left" alt="AMS" width="25px" src="https://user-images.githubusercontent.com/113423783/209716875-ccc2e903-3732-40f7-be2f-5663c295d6fc.png" />](https://www.instagram.com/lucie.guinebert/)
-[<img align="left" alt="AMS" width="25px" src="https://user-images.githubusercontent.com/113423783/209716964-b7d6f7c2-2e82-4b07-ba61-ceddbe8760a3.png" />](https://www.linkedin.com/in/lucie-guinebert/);
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucie-guinebert/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/lucie.guinebert/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-### Languages et outils : 
+###
 
-[<img align="left" alt="AMS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
-<img align="left" alt="AMS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-<img align="left" alt="AMS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="AMS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="AMS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="AMS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="AMS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />;
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
-### Ma routine quotidienne :
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-```mermaid
-  graph TD;
-      Code-->Eat;
-      Eat-->Sleep;
-      Sleep-->Code;
-```
+###
 
-### ⭐Statistiques GitHub
+<h3 align="left">🔥   My Stats :</h3>
 
-![Lucie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucie7798&theme=algolia&show_icons=true&count_private=true)
-          
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Lucie7798&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucie7798&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucie7798&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
           
           
           
