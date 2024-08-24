@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Je viens de Seine-et-Marne<br><br>. 🔭 Je travail actuellement sur un site e-commerce<br>. ⚡ Passionnée de mangas, j'adore les chats ₍^ >ヮ<^₎</p>
+<p align="left">Je viens de Seine-et-Marne<br><br>.⚡ Passionnée de mangas, j'adore les chats ₍^ >ヮ<^₎</p>
 
 ###
 
